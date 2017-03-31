@@ -1,6 +1,6 @@
 # React-MultiStep
 
-<img width="400" src="src/img/signup.png" border="0" />
+<img width="400" src="src/img/signup.png" align="middle" border="0" />
 
 ## About
 Using React.js and React-Multistep, I created the SignUp page 
