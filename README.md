@@ -1,10 +1,18 @@
+# React-MultiStep
 
+<img width="900" src="src/img/signup.png" border="0" />
+
+## About
+Using React.js and React-Multistep, I created the SignUp page 
+This React-MultiStep example is written by [Big Silver].
 
 ## install and run
 
-- run `npm install`
-- then run `npm run example`
-- then go to `http://localhost:8080/webpack-dev-server/src/examples/index.html` in your browser
+- Open termianl `git clone https://github.com/Big-Silver/React-Multistep.git react-multistep`
+- Move to the project `cd react-multistep`
+- Run `npm install`
+- Then run `npm run example`
+- Then go to `http://localhost:8080/webpack-dev-server/src/examples/index.html` in your browser
 
 
 ## tests

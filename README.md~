@@ -1,4 +1,10 @@
+# React-MultiStep
 
+<img width="900" src="src/img/signup.png" border="0" />
+
+## About
+Using Jquery, Html, CSS and Javascript, implement the D & D(drag and drop), clone, resize, rotate and remove.
+This Jquery Drag and Drop example is written by [Big Silver].
 ## install and run
 
 - run `npm install`
